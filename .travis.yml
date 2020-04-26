@@ -17,4 +17,4 @@ keep-history: true
 target_branch: master # generate static files to master
 on:
 branch: hexo-source # source code of hexo
-local-dir: publicc
+local-dir: public
