@@ -1,38 +1,20 @@
 ---
 title: Hello World
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to My Blog! This is my first post.
 
-## Quick Start
+Some lessons learnt when building this blog:
 
-### Create a new post
+[Adding new SSH key to github](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)
 
-``` bash
-$ hexo new "My New Post"
-```
+[Hexo Doc](https://hexo.io/docs/)
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+[Next-themed blog example](https://notes.iissnan.com/)
 
-### Run server
+[Next-themed blog improvements](https://www.jianshu.com/p/1f8107a8778c)
 
-``` bash
-$ hexo server
-```
+[Algolia Search](https://www.algolia.com/doc/)
 
-More info: [Server](https://hexo.io/docs/server.html)
+[Hexo-algolia](https://github.com/oncletom/hexo-algolia)
 
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
