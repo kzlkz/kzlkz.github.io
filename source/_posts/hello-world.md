@@ -1,6 +1,16 @@
 ---
 title: Hello World
 
+categories: 
+- Daily Notes
+- Blog
+- Tech
+
+tags:
+- Daily Notes
+- Blog
+- Tech
+
 ---
 Welcome to My Blog! This is my first post.
 
